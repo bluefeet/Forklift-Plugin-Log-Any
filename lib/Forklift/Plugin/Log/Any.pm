@@ -113,7 +113,7 @@ __END__
 =head1 TODO
 
 For now this plugin only inserts logging into L<Forklift::Job/run> and
-L</Forklift::Job/run_callback>.  In the future more may be logged and it
+L<Forklift::Job/run_callback>.  In the future more may be logged and it
 may be useful to make the log levels configurable.
 
 =head1 SUPPORT
