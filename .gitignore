@@ -1,0 +1,5 @@
+/Forklift-Plugin-Log-Any*
+/.build
+*.swp
+/nytprof*
+/cover_db
